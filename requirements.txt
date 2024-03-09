@@ -9,7 +9,7 @@ blinker==1.4
 
 ## Parsing
 beautifulsoup4==4.4.1
-lxml==3.5.0
+lxml==4.9.1
 
 ## Configuration
 confire==0.2.0
